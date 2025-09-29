@@ -102,6 +102,18 @@ export const loadingTextures: Array<LoadingObject> = [
     name: 'Poliigon_PlasterPainted_7664_Metallic',
     path: '/assets/textures/Poliigon_PlasterPainted_7664_Metallic.jpg',
   },
+  {
+    name: 'Poliigon_PlasterPainted_7664_Roughness',
+    path: '/assets/textures/Poliigon_PlasterPainted_7664_Roughness.jpg',
+  },
+  {
+    name: 'Poliigon_PlasterPainted_7664_Normal',
+    path: '/assets/textures/Poliigon_PlasterPainted_7664_Normal.png',
+  },
+  {
+    name: 'Poliigon_PlasterPainted_7664_BaseColor',
+    path: '/assets/textures/Poliigon_PlasterPainted_7664_BaseColor.jpg',
+  },
 ]
 
 /**
